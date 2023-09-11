@@ -13,13 +13,32 @@ body{
     width: 100%;
     height: 150px;
     background-image:url(../img/pattern.png);
-    position: relative;
+
 }
 
 /*Logo*/
 .verologo{
     width: 300px;
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+/*Main*/
+main{
+    margin: 10px;
+}
+/*Titolo*/
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+/*sottotitolo*/
+.sottotitolo{
+    color: gray;
+    margin-top:0 ;
+    margin-bottom: 0;
+}
+/*autore*/
+.autore{
+    color:cyan;
 }
