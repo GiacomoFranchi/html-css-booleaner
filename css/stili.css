@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+/*sfondo azzurro*/
+.sfondo-colore{
+    width: 100%;
+    background-color: cornflowerblue;
+}
+
+/*sfondo pattern */
+.pattern{
+    width: 100%;
+    height: 150px;
+    background-image:url(../img/pattern.png);
+    position: relative;
+}
+
+/*Logo*/
+.verologo{
+    width: 300px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
