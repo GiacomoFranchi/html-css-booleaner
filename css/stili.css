@@ -28,7 +28,7 @@ main{
 }
 /*Titolo*/
 h1{
-    font-size: 50px;
+    font-size: 80px;
     margin-bottom: 0;
     margin-top: 10px;
 }
@@ -41,4 +41,30 @@ h1{
 /*autore*/
 .autore{
     color:cyan;
+}
+
+/*Foto Tim*/
+.foto-uno{
+    width: calc(100% / 2 - 20px);
+    margin: 5px;
+    height: 450px;
+    margin-top:20px;
+}
+
+ /*Stili per paragrafi*/
+.descrizione-foto{
+    font-size: 15px;
+    margin-top: 0;
+}
+
+.paragrafo{
+    font-size: 30px;
+}
+
+.sottolineato{
+    background-color: yellow;
+}
+
+li{
+    margin-left: 0;
 }
