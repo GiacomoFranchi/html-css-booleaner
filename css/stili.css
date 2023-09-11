@@ -68,3 +68,23 @@ h1{
 li{
     margin-left: 0;
 }
+
+/*stili tabella*/
+.thead{
+    background-color: cornflowerblue;
+    margin: 0;
+    color: azure;
+    text-align: left;
+}
+
+th{
+    width: 25%;
+}
+
+.ultimacolonna{
+    width: 50%;
+}
+
+.riga-azzurra{
+    background-color: aqua;
+}
